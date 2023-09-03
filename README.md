@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lamia</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/mylifeaslamia/mylifeaslamia/main/GitHub Banner.jpeg"> </div>
 <h3 align="center">A VC, tech, astronomy, and music enthusiast. [MiM (PGE), Finance major @ NEOMA]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mylifeaslamia&label=Profile%20views&color=0e75b6&style=flat" alt="mylifeaslamia" /> </p>
