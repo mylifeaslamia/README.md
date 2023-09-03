@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mylifeaslamia&label=Profile%20views&color=0e75b6&style=flat" alt="mylifeaslamia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mylifeaslamia" alt="mylifeaslamia" /></a> </p>
-
 - 🌎 I’m currently building [Colloc](https://colloc.online)
 
 - 🧠 I’m currently learning **Lady Gaga and the Sociology of Fame, business law, and finance**
@@ -30,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mylifeaslamia&show_icons=true&locale=en&layout=compact" alt="mylifeaslamia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mylifeaslamia&show_icons=true&locale=en" alt="mylifeaslamia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mylifeaslamia&" alt="mylifeaslamia" /></p>
