@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lamia</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/mylifeaslamia/README.md/main/Burning Passion banner real.jpg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/mylifeaslamia/README.md/main/GitHub Banner.jpeg"> </div>
 <h3 align="center">A VC, tech, astronomy, and music enthusiast. [MiM (PGE), Finance major @ NEOMA]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mylifeaslamia&label=Profile%20views&color=0e75b6&style=flat" alt="mylifeaslamia" /> </p>
@@ -19,7 +19,7 @@
 - ⚡ Fun fact **The shortest flight in the world lasted 57 seconds**
 
 <h3 align="center">I’m also working on Burning Passion 🥵🔥</h3>
-<div align="center"> <img src="https://raw.githubusercontent.com/mylifeaslamia/README.md/main/GitHub Banner.jpeg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/mylifeaslamia/README.md/main/Burning Passion banner.jpg"> </div>
 - 🔥 Burning Passion is a VC newsletter dedicated to researching and analyzing the hottest startups in the game.
 
 <h3 align="left">Connect with me:</h3>
