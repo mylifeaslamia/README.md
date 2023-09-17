@@ -19,7 +19,7 @@
 - ⚡ Fun fact **The shortest flight in the world lasted 57 seconds**
 
 <h3 align="center">I’m also working on Burning Passion 🥵🔥</h3>
-<div align="center"> <img src="https://raw.githubusercontent.com/mylifeaslamia/README.md/main/Burning Passion banner.jpg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/mylifeaslamia/README.md/main/Burning Passion banner real.jpg"> </div>
 - 🔥 Burning Passion is a VC newsletter dedicated to researching and analyzing the hottest startups in the game.
 
 <h3 align="left">Connect with me:</h3>
